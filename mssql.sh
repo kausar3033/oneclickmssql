@@ -106,16 +106,8 @@
 #### To enable SQL Server Agent, follow the steps right
     sudo /opt/mssql/bin/mssql-conf set sqlagent.enabled true
     sudo systemctl restart mssql-server
-    systemctl restart mssql-server.service
-    
+    systemctl restart mssql-server.service   
 ### Store procedure 
-
-#<a href ='https://ola.hallengren.com/sql-server-backup.html' > Download MaintenanceSolution.sql and run from MSSM </a>
-    
-rm /home/finis/oneclickmssql -rf
-    
-    
-    
-    
-    
+#<a href ='https://ola.hallengren.com/sql-server-backup.html' > Download MaintenanceSolution.sql and run from MSSM </a>  
+    rm /home/finis/oneclickmssql -rf
     
