@@ -112,7 +112,7 @@
 
 #<a href ='https://ola.hallengren.com/sql-server-backup.html' > Download MaintenanceSolution.sql and run from MSSM </a>
     
-rm /home/rsc/oneclickmssql -rf
+rm /home/finis/oneclickmssql -rf
     
     
     
